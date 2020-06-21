@@ -1,0 +1,12 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program notepad
+keyboard Hello⋘ENTER⋙World!
+for ♥fontsize from 30 to 100 step 10 
+    call changefont size ♥fontsize
+end for
+procedure changefont size 10
+    keyboard ⋘alt+o⋙f
+    window Font
+    keyboard ⋘tab 2⋙♥size⋘ENTER⋙
+end procedure

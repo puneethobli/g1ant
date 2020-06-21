@@ -1,0 +1,8 @@
+addon language version 4.106.1.0
+addon net version 4.104.0.0
+
+♥list = adam❚bem❚nmb❚hum
+♥list⟦⟧=200
+dialog ♥list
+♥test = ♥list⟦5⟧+10
+dialog ♥test

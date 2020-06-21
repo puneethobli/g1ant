@@ -1,0 +1,9 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+♥list = adam❚bal❚cat❚doyy
+program notepad
+
+foreach ♥name in ♥list
+    keyboard Name=‴♥name⋘ENTER⋙‴
+end
